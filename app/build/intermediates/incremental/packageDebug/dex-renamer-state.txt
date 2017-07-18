@@ -1,0 +1,4 @@
+#Thu Jun 29 11:51:11 GMT+08:00 2017
+base.0=F\:\\zhiban\\easeui\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\zhiban\\easeui\\examples\\ChatDemoUI3.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
